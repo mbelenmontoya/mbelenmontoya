@@ -7,8 +7,8 @@ _Based in Buenos Aires, Argentina_
 
 ## 🧑‍💻 About Me
 
-I'm a UX Engineer with 10+ years of experience, specialized in Design Systems for the past 7 years.  
-I've worked with leading LATAM brands like Despegar, and with American companies such as Modern Tribe and RocketGenius.  
+I'm a Fullstack Engineer with 10+ years of experience, specialized in Design Systems for the past 7 years.  
+I've worked with leading LATAM brands like Despegar, and with American companies such as Modern Tribe and RocketGenius, and now Dialpad.
 If I don't know it, I can learn it.
 
 **Open to opportunities:** Passionate about remote work, cross-functional teams, and agile environments. Always looking for new challenges in design systems, UI engineering, and product-driven teams.
