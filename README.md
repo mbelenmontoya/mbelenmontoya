@@ -1,66 +1,46 @@
-# 👋 Hi, I'm Belén Montoya
+# Hi, I'm Belén Montoya
 
-**Co-Founder @ GreenBit | Design System Consultant | Sr. Front-end Engineer**  
-_Based in Buenos Aires, Argentina_
+**Senior Frontend Engineer · Buenos Aires, Argentina**
 
----
+I build web applications, reusable components and tools for product teams. I have 10+ years of experience working with JavaScript, React and Vue, across implementation, frontend architecture, testing and delivery.
 
-## 🧑‍💻 About Me
+Previously at Dialpad, Rocketgenius, Modern Tribe and Despegar. I also co-founded GreenBit, where I build products with React, Next.js and Node.js.
 
-I'm a Fullstack Engineer with 10+ years of experience, specialized in Design Systems for the past 7 years.  
-I've worked with leading LATAM brands like Despegar, and with American companies such as Modern Tribe and RocketGenius, and now Dialpad.
-If I don't know it, I can learn it.
+I'm open to senior frontend opportunities, working remotely from Argentina.
 
-**Open to opportunities:** Passionate about remote work, cross-functional teams, and agile environments. Always looking for new challenges in design systems, UI engineering, and product-driven teams.
+## Engineering work
 
-## 💡 Skills
+- **Frontend applications:** React, Next.js and Vue 3, including state management, asynchronous data flows and legacy modernization.
+- **Shared foundations:** component libraries, design systems and microfrontends that teams can build on.
+- **Developer tools:** prototyping environments, local development tooling, documentation and CI/CD workflows.
+- **Quality and delivery:** automated tests, code reviews, debugging and production releases.
 
-![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat)
-![OOP](https://img.shields.io/badge/-OOP-8E44AD?style=flat)
-![Prototyping](https://img.shields.io/badge/-Prototyping-FF7043?style=flat)
-![Design Systems](https://img.shields.io/badge/-Design%20Systems-00BFAE?style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+At Dialpad, I worked on the transition from Backbone.js to Vue 3 and microfrontends, built Design Studio using production components, and contributed to conversational UI components for AI assistants. I also developed MCP documentation tooling and Claude Code workflows with deterministic validation.
 
-**Languages:**  
-🇪🇸 Spanish (Native/Bilingual), 🇬🇧 English (Full Professional)
+At Despegar, I co-developed the EVA design system and helped product teams adopt shared UI foundations. At Rocketgenius and Modern Tribe, I worked on React applications, modernization, testing and engineering standards.
 
----
+## Public projects
 
-## 🚀 Featured Projects
+### [Token Dashboard](https://github.com/mbelenmontoya/token-dashboard)
 
-### [work api](#)
-An API designed to streamline workplace processes and improve team productivity. Built with robust security and scalability in mind. Enables seamless integration for remote and hybrid teams, with a focus on automation and reliability.
+React admin interface for managing design tokens, organizations, projects and API keys. Includes a component facade for the Chakra UI to shadcn/ui migration, plus service tests with mocked APIs.
 
-### [dashboard](#)
-A customizable dashboard for visualizing key metrics and insights. Integrates seamlessly with various data sources, empowering users to make informed decisions. Built with user experience and adaptability at its core, ideal for agile and cross-functional teams.
+**React · JavaScript · TypeScript · Vite · Tailwind CSS · Vitest · MSW**
 
----
+### [Design Token Manager API](https://github.com/mbelenmontoya/design-token-manager-api)
 
-## 📬 Contact
+The API behind Token Dashboard: token management, tenant and project boundaries, authentication, role-based permissions and API documentation.
 
-- **Email:** mariabmontoya@gmail.com
-- **LinkedIn:** [belenmontoya](https://www.linkedin.com/in/belenmontoya/)
-- **GitHub:** [mbelenmontoya](https://github.com/mbelenmontoya)
+**Node.js · Express · PostgreSQL · Prisma · JWT · Jest · OpenAPI**
 
----
+### [Hara Vital](https://github.com/mbelenmontoya/hara)
 
-## 🌟 Fun Fact
+A wellness professional directory with public profiles, recommendation flows and an admin dashboard. The code includes server-rendered pages, protected API routes, contact tracking and automated tests.
 
-> "Do or do not, there is no try."  
-> — Yoda, Star Wars
+**Next.js · React · TypeScript · Tailwind CSS · Supabase · Vitest · Playwright**
 
----
+## Contact
 
-## 📊 GitHub Stats
+[LinkedIn](https://www.linkedin.com/in/belenmontoya/) · [Email](mailto:mariabmontoya@gmail.com)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mbelenmontoya&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mbelenmontoya&layout=compact&theme=radical)
-![Profile Views](https://komarev.com/ghpvc/?username=mbelenmontoya&label=Profile%20views&color=0e75b6&style=flat)
-
----
-
-_Always open to new opportunities and collaborations! Feel free to reach out._
+Spanish: native · English: full professional proficiency
