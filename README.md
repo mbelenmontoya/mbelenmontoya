@@ -63,23 +63,27 @@ I like working on the foundations behind a good interface: how components fit to
 
 ## Featured projects
 
-### [Token Dashboard](https://github.com/mbelenmontoya/token-dashboard)
+![Private repositories](https://img.shields.io/badge/Code-Available_on_request-148A78?style=flat-square)
 
-React admin interface for managing design tokens, organizations, projects and API keys. Includes a component facade for the Chakra UI to shadcn/ui migration and service tests with mocked APIs.
+These repositories are private. [Get in touch](mailto:mariabmontoya@gmail.com) for a code walkthrough or repository access.
 
-`React` `JavaScript / TypeScript` `Vite` `Tailwind CSS` `Vitest` `MSW`
+### GreenBit Automations
 
-### [Design Token Manager API](https://github.com/mbelenmontoya/design-token-manager-api)
+A content operations platform for brands: review AI-generated strategies, edit drafts, manage brand context and regenerate content with feedback. I built the product interface around the editorial workflow, with account-scoped data, generation status and error handling. It also exposes REST and MCP integrations.
 
-The API behind Token Dashboard: token management, tenant and project boundaries, authentication, role-based permissions and API documentation.
+`React 19` `Next.js 16` `TypeScript` `Tailwind CSS` `Supabase` `Vitest` `Playwright`
 
-`Node.js` `Express` `PostgreSQL` `Prisma` `JWT` `Jest` `OpenAPI`
+### Visual AI Journal
 
-### [Hara Vital](https://github.com/mbelenmontoya/hara)
+An iOS reading journal with a block-based note editor, book library, image search and optional AI assistance. The project explores native UI interactions, local persistence and provider selection while keeping the core editing experience usable without AI.
 
-A wellness professional directory with public profiles, recommendation flows and an admin dashboard. Includes server-rendered pages, protected API routes, contact tracking and automated tests.
+`Swift` `SwiftUI` `SwiftData` `iOS`
 
-`Next.js` `React` `TypeScript` `Tailwind CSS` `Supabase` `Vitest` `Playwright`
+### GreenBit Portal
+
+A web product built around reusable React components, a product catalog, publishing and quote requests. I implemented the Next.js interface, Firestore-backed content, administrative API endpoints and error handling, including dynamic rendering for content updates without a rebuild.
+
+`React 19` `Next.js 15` `JavaScript` `Chakra UI` `Node.js` `Firebase / Firestore`
 
 ---
 
